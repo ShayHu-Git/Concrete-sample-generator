@@ -1,5 +1,5 @@
 # Concrete-sample-generator
-This plug-in is for generating the concrete geometrical model, delicating for the mesoscal modeling of concrete and multiple phases materials. 
+This plug-in is for generating the concrete geometrical model based on Blender, delicating for the mesoscal modeling of concrete and multiple phases materials. 
 
 Three modules are contained in the interface: 
 
